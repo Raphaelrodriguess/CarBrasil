@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76821204015",
+    "project_id": "carbrasil-app",
+    "storage_bucket": "carbrasil-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76821204015:android:4784f8712fd1c324cacada",
+        "android_client_info": {
+          "package_name": "com.example.carbrasilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76821204015-abttnlvm4j77e5qfk2dbprr3qcfgv5ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carbrasilapp",
+            "certificate_hash": "1134db4bb55d0f58e94a4c02d346b39c5e965212"
+          }
+        },
+        {
+          "client_id": "76821204015-8g88p8qj7fis2sg4n6k5d1p0qp4e041f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZ0uk5uE1QtwVw7kPcidpfL_b-FKLWhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76821204015-8g88p8qj7fis2sg4n6k5d1p0qp4e041f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
